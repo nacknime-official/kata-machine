@@ -4,6 +4,7 @@ module.exports = {
         "Stack",
         "Queue",
         "ArrayList",
+        "QuickSort",
     ],
 }
 
